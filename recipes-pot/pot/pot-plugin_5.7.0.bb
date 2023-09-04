@@ -1,6 +1,6 @@
 SUMMARY = "PiOmxTextures"
 DESCRIPTION = "This package contains the POT plugin"
-HOMEPAGE = "http://thebugfreeblog.blogspot.it/p/overview-of.html"
+HOMEPAGE = "https://bugfreeblog.duckdns.org/tag/piomxtextures"
 LICENSE = "GPLv2"
 LIC_FILES_CHKSUM = "file://COPYING;md5=c46082167a314d785d012a244748d803"
 
